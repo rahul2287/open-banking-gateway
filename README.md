@@ -130,7 +130,7 @@ Please take a look into our [**documentation**](https://adorsys.github.io/open-b
 
 ## Third Parties Contribution
 
-This project is designed to enable contribution from different sources, as the open banking challenge will start with a magnitude of discrepancies in individual bank implementations, even for banks implementing a common standards.
+This project is designed to enable contribution from different sources. As the open banking challenge will start with a magnitude of discrepancies in individual bank implementations, even for banks implementing a common standards.
 
 ### How to contribute
 
